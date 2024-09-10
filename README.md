@@ -44,7 +44,17 @@ To set up the project locally, follow these steps:
    ```bash
    npm start
    ```
-   
+
+## Screenshots
+
+Here are some screenshots of the application:
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/Screenshots/screenshots1.jpg" alt="Screenshot 1" style="width: 30%; height: auto; padding: 5px;"/>
+  <img src="assets/Screenshots/screenshots2.jpg" alt="Screenshot 2" style="width: 30%; height: auto; padding: 5px;"/>
+  <img src="assets/Screenshots/screenshots3.jpg" alt="Screenshot 3" style="width: 30%; height: auto; padding: 5px;"/>
+</div>
+
+
 
 ## Contact
 For any questions or inquiries, please contact us at abutbulgilad@gmail.com or evaklassen81@gmail.com.
